@@ -18,7 +18,7 @@ const plr = { //player data
     "h": 20,
     "speedx": 0,
     "speedy": 0,
-    "color": "red"
+    "color": "blue"
 };
 const bg = { //canvas data
     "x": 0,
